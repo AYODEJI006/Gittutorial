@@ -1,0 +1,3 @@
+There are few commands that i know now, they are;
+git init
+git remote add origin https//github.com/kareemayodeji.m@gmail.com
